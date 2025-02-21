@@ -6,6 +6,9 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 ---
 
+## Data Architecture
+![image](https://github.com/user-attachments/assets/299bb7c4-3005-40e8-9954-33a462a580f4)
+
 ## 📖 Project Overview
 
 This project involves:
@@ -18,11 +21,28 @@ This project involves:
 
 4.Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
 
-## 🎯
+---
 
-SQL Development
-Data Architect
-Data Engineering
-ETL Pipeline Developer
-Data Modeling
-Data Analytics
+## 🚀 Project Requirements
+Building the Data Warehouse (Data Engineering)
+
+#### Objective
+
+Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
+
+Specifications
+1) Data Sources: Import data from two source systems (ERP and CRM) provided as CSV files.  
+2) Data Quality: Cleanse and resolve data quality issues prior to analysis.  
+3) Integration: Combine both sources into a single, user-friendly data model designed for analytical queries.  
+4) Scope: Focus on the latest dataset only; historization of data is not required.  
+5) Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
+
+
+## BI: Analytics & Reporting (Data Analysis)
+#### Objective 
+Develop SQL-based analytics to deliver detailed insights into:
+
+- Customer Behavior
+- Product Performance
+- Sales Trends
+- These insights empower stakeholders with key business metrics, enabling strategic decision-making.
