@@ -49,8 +49,7 @@ Develop SQL-based analytics to deliver detailed insights into:
   
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
-## Schema 
-
-
+## Star-Schema 
+![image](https://github.com/user-attachments/assets/698bef37-6360-4eb0-be1b-badfdec07b09)
 
 This project reinforced my understanding of data engineering, modeling, and analytics—and I’m looking forward to more advanced implementations!
